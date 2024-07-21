@@ -4,7 +4,7 @@
 
 console.log(3 
     + 
-    3)          // never write like this. Code readability should be High
+    3)          // never write code like this. Code readability should be High
 
 console.log("Aryan") // It's perfect
 
@@ -23,12 +23,48 @@ Boolean => true/false
 Undefined => value which is not defined
 Null => standalone value (empty)
 BigInt => Big numbers 
-Symbol => unique
+Symbol => It makes value unique
 
 */
 
-/* Non-Primitive Data type => object */
-
-
 console.log(typeof null); // object
 console.log(typeof undefined); // undefined
+
+
+
+/* Non-Primitive Data type => 
+    
+    Array
+    Object
+    Function 
+
+*/
+
+
+/* 
+
+//Array Declaration 
+const heros = ["ironman", "hulk", "antman"];
+
+
+//Object Declaration
+
+ let myObj = {
+    firstName: "aryan",
+    lastName: "Mehta",
+    age: 23,
+}
+
+
+//Function Declaration 
+
+ const myFunction = function(){
+    console.log("Hello World");
+ }
+
+*/
+
+
+console.log(typeof array); // object
+console.log(typeof object); // object
+console.log(typeof function); // object function
