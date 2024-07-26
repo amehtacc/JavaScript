@@ -45,6 +45,8 @@ function calculateCartPrice(val1, val2, ...num1){   //... is called rest operato
 // console.log(calculateCartPrice(200, 500, 300, 1500)) // rest operator will put all values into an array and return the array
 
 
+
+/* Functions with Object */
 const user = {
     username: "aryan",
     price: 199
@@ -61,6 +63,8 @@ handleObject({
 })
 
 
+
+/* Functions with Array */
 const myNewArray = [200, 400, 300, 700]
 
 function returnSecondValue(getArray){
