@@ -8,9 +8,9 @@ Ans.: Avoid polluting the global namespace
 */
 
 
-(function coffee(){                  // this function is named IIFE, because it has its name - coffee
+(function coffee(){                 // this function is named IIFE, because it has its name - coffee
     console.log(`DB CONNECTED`);
-})();                                   //here we need to add semicolon ; after every IIFE function to stop its execution
+})();                               //here we need to add semicolon ; after every IIFE function to stop its execution
 
 
 ( (name) => {
