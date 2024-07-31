@@ -1,14 +1,12 @@
 # Projects related to DOM
 
-In this file I am just adding the JavaScript code or logic of the project. To access the complete project file just click on the link below each project title.
+In this file I am just adding the JavaScript code or logic of the project. To access the complete project file just click on the project title.
 
 <br>
 
 # Solution code in javascript
 
-## Project 1 - Color Changer
-
-[Project Link](https://)
+## [Project 1 - Color Changer](https://)
 
 ```javascript
 const button = document.querySelectorAll('.button')
@@ -49,9 +47,7 @@ button.forEach((button) => {
 ```
 
 
-## Project 2 - BMI Calculator
-
-[Project Link](https://)
+## [Project 2 - BMI Calculator](https://)
 
 ```javascript
 
@@ -88,6 +84,4 @@ form.addEventListener('submit', (e) => {
 ```
 
 
-## Project 3 - 
-
-[Project Link](https://)
+## [Project 3 - ](https://)
