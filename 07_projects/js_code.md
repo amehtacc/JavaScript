@@ -47,7 +47,7 @@ button.forEach((button) => {
 ```
 
 
-## [Project 2 - BMI Calculator](https://)
+## [Project 2 - BMI Calculator](https://github.com/amehtacc/BMI-Calculator)
 
 ```javascript
 
